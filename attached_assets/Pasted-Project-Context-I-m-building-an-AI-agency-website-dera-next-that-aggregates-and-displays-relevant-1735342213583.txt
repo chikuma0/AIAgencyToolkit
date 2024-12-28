@@ -1,0 +1,64 @@
+Project Context:
+I'm building an AI agency website (dera-next) that aggregates and displays relevant AI news for SMBs. We're focused on delivering "AI horsepower for distributed era" to SMBs.
+
+Current Stack:
+- Next.js 15 (App Router)
+- TypeScript
+- Tailwind CSS
+- Basic HackerNews scraper in src/lib/news/scrapers/
+
+Content Priority Strategy:
+1. AI for Business Operations (Highest Priority)
+   - SMB-focused AI tools and platforms
+   - AI automation case studies
+   - Cost-effective AI solutions
+   - AI productivity tools
+
+2. AI Industry Updates (High Priority)
+   - New AI model releases
+   - AI pricing changes
+   - Accessibility improvements
+   - Open-source AI developments
+
+3. Implementation Stories (Medium Priority)
+   - SMB success stories with AI
+   - AI integration challenges/solutions
+   - ROI reports and metrics
+   - Best practices
+
+4. General Tech (Lower Priority)
+   - Related infrastructure news
+   - Security considerations
+   - Industry regulations
+   - Market trends
+
+Implementation Goals:
+
+1. Supabase Setup (Need to create from scratch):
+- Database tables for news items with priority categorization
+- Source weighting system
+- Content scoring based on SMB/AI relevance
+- 6-month retention policy
+
+2. Enhanced News Scraper:
+- Content categorization based on our priority system
+- SMB/AI relevance scoring
+- Filtering mechanism for each priority level
+- Multi-source aggregation (starting with HackerNews)
+
+3. News Ticker Component:
+- Prioritized display based on content categories
+- Smooth transitions between items
+- Category-based visual indicators
+- Interactive elements for user engagement
+
+Please help me implement this step by step, focusing on:
+- Clear explanations for Next.js 15 App Router patterns
+- TypeScript type definitions
+- Step-by-step terminal commands
+- Best practices for each implementation
+- Breaking down complex tasks
+
+Current Task: [specific task you want to work on]
+
+Note: I'm relatively new to Next.js and TypeScript, so detailed explanations and smaller steps are appreciated.

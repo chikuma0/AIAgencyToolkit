@@ -1,0 +1,37 @@
+Primary Content Categories (in order of priority):
+
+SMB(and soloprenuer)-focused AI news and stories (highest priority)
+
+SMB success stories with AI
+Best practices
+AI automation case studies
+Cost-effective AI solutions
+AI productivity tools
+
+
+AI Industry Updates (high priority)
+
+New AI model releases
+AI pricing changes
+Accessibility improvements in AI
+Open-source AI developments
+
+
+
+General Tech (lower priority)
+
+Related infrastructure news
+Security considerations
+Industry regulations
+Market trends
+
+
+
+Content Investigation Process:
+
+Initial Screening:
+
+Is it relevant to SMB(and soloprenuer)s?
+Does it involve practical AI applications?
+Is it actionable/implementable?
+Cost implications for SMB(and soloprenuer)s?
